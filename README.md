@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a team leader @ByteDance working on Client Infrastructure. 
 
-### 👨‍💻 Cool stuff I'm working on
+### 👨‍💻 Cool stuff my team working on
 
 - **[Web Dev Engine](https://zhuanlan.zhihu.com/p/88616149)**: Focus on improving the process of build excellent application via dev suite, builder suite and design suite.
 - **Application Experience Management**: The internal platform which focus on to improve the application experience.
